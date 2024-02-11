@@ -29,9 +29,9 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 ## 😃 Programming Languages:
 
 <p>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%ffffff.svg?style=for-the-badge&logo=kotlin&logoColor=%0095D5"></a>
-<img alt="Swift" src="https://img.shields.io/badge/swift-%231572B6.svg?style=for-the-badge&logo=swift&logoColor=%FFAC45"></a>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=%007396"></a>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
 
