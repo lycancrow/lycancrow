@@ -48,8 +48,13 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 
 
 
-## Other technologies:
+## 😃 Other technologies:
 
+<p>
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
+<img alt="Linux" src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white"></a>
+<img alt="Sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+</p>
 
 
 ## 💼 Portfolio:
