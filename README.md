@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hello World Page</title>
-</head>
 <body>
     <div align="center">
         <h1>Hello World!! <br> I'm <a href="https://lcuervom.wixsite.com/website">Felipe Cuervo</a> 👋</h1>
     </div>
-    <img src="https://imgur.com/d56Ujrt">
+    <img src="https://i.imgur.com/d56Ujrt.png">
 </body>
 </html>
 
