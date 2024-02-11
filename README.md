@@ -107,8 +107,8 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 ## 😃 Frameworks:
 
 <p>
-<img alt="Android SDK (Software Development Kit)" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android SDK (Software Development Kit)&logoColor=white"></a>
-<img alt="iOS SDK (Software Development Kit)" src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/iOS SDK (Software Development Kit)-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"></a>
+<img alt="Android SDK (Software Development Kit)" src="https://img.shields.io/badge/Android%20Sdk-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white"></a>
+<img alt="iOS SDK (Software Development Kit)" src="https://img.shields.io/badge/iOS SDK (Software Development Kit)-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"></a>
 <img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 </p>
 
