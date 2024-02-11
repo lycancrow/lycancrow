@@ -37,7 +37,7 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 
 
 
-## 😃 FrameWorks:
+## 😃 Integrated development environment:
 
 
 <p>
