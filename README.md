@@ -2,8 +2,8 @@
 <html>
 <body>
     <div align="center">
-        <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&pause=1000&color=FFFFFF&center=verdadero&vCenter=verdadero&width=500&lines=Hello%20World!!">
-        <h1><br> I'm <a href="https://lcuervom.wixsite.com/website">Felipe Cuervo</a> 👋</h1>
+        <h1><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&pause=1000&color=FFFFFF&center=verdadero&vCenter=verdadero&width=500&lines=Hello%20World!!"></h1>
+        <h1><I'm <a href="https://lcuervom.wixsite.com/website">Felipe Cuervo</a> 👋</h1>
     </div>
     <img src="https://i.imgur.com/d56Ujrt.png">
 </body>
