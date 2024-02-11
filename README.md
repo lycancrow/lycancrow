@@ -46,7 +46,10 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 <img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
 </p>
 
-<!--![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)-->
+
+
+## Other technologies:
+
 
 
 ## 💼 Portfolio:
@@ -58,21 +61,3 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 </p>
 
 
-<!-- ## 💼 Porfolio -->
-
-<!--
-### Hi there 👋
-
-**lycancrow/lycancrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
