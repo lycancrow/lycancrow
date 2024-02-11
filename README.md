@@ -17,6 +17,61 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 <be>
 
 
+##   My Projects
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">To-Do App</h3>
+<div align="center">
+<a href="https://github.com/lycancrow/To-Do-App" target="_blank"><img src="https://i.imgur.com/eClFpoX.png" width="400" alt="To-Do App"></a>
+<p>
+<a href="https://github.com/lycancrow/To-Do-App" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Make every day count with this exciting task-scheduling app! With captivating animations and a highly intuitive interface, planning your day has never been so exciting and easy. Organize your life with ease using our integrated calendar and dedicated sections for personal and work tasks. Plus, simplify your routine even further with our predefined tasks ready to activate at any time..</p>
+</div>
+                                                                                      
+</td>
+
+
+<td width="50%"> <br>
+<h3 align="center">Expense Tracker</h3>
+<div align="center">                                       
+<a href="https://github.com/lycancrow/Expense-tracker" target="_blank"><img src="https://i.imgur.com/plw6vCn.png" width="400" alt="Expense Tracker"></a>
+<br>
+<p>
+<a href="https://github.com/lycancrow/Expense-tracker" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+</p>Discover a new way to take control of your finances with this application that allows you to track expenses. With an intuitive interface and elegant design, managing your income and expenses has never been so simple and attractive. Visualize your spending habits clearly and concisely through dynamic graphs that allow you to quickly understand where your money goes and how you can optimize your finances!</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+                                                                           
+</div>
+<br>
+
+
+
+
+## 💼 Portfolio:
+
+
+<p>
+<a href="https://www.behance.net/luisfecuervo"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/felipe-cuervo-2284ba197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+
+
+
 ## 📊 Estatistics:
 
 <p align="center">
@@ -49,6 +104,17 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 
 
 
+## 😃 Frameworks:
+
+<p>
+<img alt="Android SDK (Software Development Kit)" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android SDK (Software Development Kit)&logoColor=white"></a>
+<img alt="iOS SDK (Software Development Kit)" src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/iOS SDK (Software Development Kit)-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)"></a>
+<img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+</p>
+
+
+
+
 ## 😃 Other technologies:
 
 <p>
@@ -58,53 +124,8 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 </p>
 
 
-## 💼 Portfolio:
-
-
-<p>
-<a href="https://www.behance.net/luisfecuervo"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/felipe-cuervo-2284ba197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 
 
-##   My Projects
 
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">To-Do App</h3>
-<div align="center">
-<a href="https://github.com/lycancrow/To-Do-App" target="_blank"><img src="https://i.imgur.com/eClFpoX.png" width="400" alt="To-Do App"></a>
-<p>
-<a href="https://github.com/lycancrow/To-Do-App" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</p>
-<p>Make every day count with this exciting task scheduling app! With captivating animations and a highly intuitive interface, planning your day has never been so exciting and easy. Organize your life with ease using our integrated calendar and dedicated sections for personal and work tasks. Plus, simplify your routine even further with our predefined tasks ready to activate at any time..</p>
-</div>
-                                                                                      
-</td>
-
-
-<td width="50%"> <br>
-<h3 align="center">Expense Tracker</h3>
-<div align="center">                                       
-<a href="https://github.com/lycancrow/Expense-tracker" target="_blank"><img src="https://i.imgur.com/plw6vCn.png" width="400" alt="Expense Tracker"></a>
-<br>
-<p>
-<a href="https://github.com/lycancrow/Expense-tracker" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</p>
-</p>Discover a new way to take control of your finances with this application that allows you to track expenses. With an intuitive interface and elegant design, managing your income and expenses has never been so simple and attractive. Visualize your spending habits clearly and concisely through dynamic graphs that allow you to quickly understand where your money goes and how you can optimize your finances!</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-                                                                           
-</div>
-<br>
