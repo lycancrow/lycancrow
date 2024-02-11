@@ -41,7 +41,7 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 <td width="50%"> <br>
 <h3 align="center">Expense Tracker</h3>
 <div align="center">                                       
-<a href="https://github.com/lycancrow/Expense-tracker" target="_blank"><img src="https://i.imgur.com/plw6vCn.png" width="400" alt="Expense Tracker"></a>
+<a href="https://github.com/lycancrow/Expense-tracker" target="_blank"><img src="https:\/\/cdn-prod-ccv.adobe.com\/MfgtgKetwKY\/rend\/MfgtgKetwKY_360.mp4?hdnts=st%3D1707616109%7Eexp%3D1707702509%7Eacl%3D%2Fshared_assets%2Fimage%2F*%21%2Fz%2FMfgtgKetwKY%2Frend%2F*%21%2Fi%2FMfgtgKetwKY%2Frend%2F*%21%2FMfgtgKetwKY%2Frend%2F*%21%2FMfgtgKetwKY%2Fimage%2F*%21%2FMfgtgKetwKY%2Fcaptions%2F*%7Ehmac%3Db503debfe68a9daa2a510ac6084f288a86fb242a37c6bea34f347fa4922465aa" width="400" alt="Expense Tracker"></a>
 <br>
 <p>
 <a href="https://github.com/lycancrow/Expense-tracker" target="_blank">
