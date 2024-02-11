@@ -78,7 +78,7 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 <a href="https://github.com/lycancrow/To-Do-App" target="_blank"><img src="https://i.imgur.com/eClFpoX.png" width="400" alt="To-Do App"></a>
 <p>
 <a href="https://github.com/lycancrow/To-Do-App" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -95,7 +95,7 @@ I am a full-stack Mobile Application Developer; eager to contribute to team succ
 <br>
 <p>
 <a href="https://github.com/lycancrow/Expense-tracker" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
