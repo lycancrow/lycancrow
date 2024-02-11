@@ -8,19 +8,57 @@
 </body>
 </html>
 
+
+
+## About me!
+
+I am a full-stack Mobile Application Developer; eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of cloud systems with Microsoft Azure, and multiple programming languages. Motivated to learn, grow, and excel in the technology industry.
+<be>
+
+
+## 📊 Estatistics:
+
+<p align="center">
+<a href="https://github.com/lycancrow">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lycancrow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lycancrow&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+## 😃 Programming Languages:
+
+<p>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%ffffff.svg?style=for-the-badge&logo=kotlin&logoColor=%0095D5"></a>
+<img alt="Swift" src="https://img.shields.io/badge/swift-%231572B6.svg?style=for-the-badge&logo=swift&logoColor=%FFAC45"></a>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=%007396"></a>
+</p>
+
+
+
+## 😃 FrameWorks:
+
+
+<p>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
+</p>
+
+<!--![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)-->
+
+
+## 💼 Portfolio:
+
+
 <p>
 <a href="https://www.behance.net/luisfecuervo"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/felipe-cuervo-2284ba197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
-
-## About me!
-
-
-
 <!-- ## 💼 Porfolio -->
-
 
 <!--
 ### Hi there 👋
