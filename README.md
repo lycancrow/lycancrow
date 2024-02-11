@@ -1,7 +1,15 @@
-<div align="center">
-<h1 align="center">Hello World!! \n I'm <a href="https://lcuervom.wixsite.com/website"></a> Felipe Cuervo 👋</h1>
-</div>
-<img src="https://drive.google.com/drive/folders/1JOReQ_Hfk4mPZF898QNgU5Py9NQ4XMYT">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World Page</title>
+</head>
+<body>
+    <div align="center">
+        <h1>Hello World!! <br> I'm <a href="https://lcuervom.wixsite.com/website">Felipe Cuervo</a> 👋</h1>
+    </div>
+    <img src="https://imgur.com/d56Ujrt">
+</body>
+</html>
 
 
 
